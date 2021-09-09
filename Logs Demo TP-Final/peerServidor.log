@@ -1,0 +1,261 @@
+2021-09-06T12:11:51.394-0300 INFO Peer obtiene ip:port tracker primario
+2021-09-06T12:11:51.395-0300 INFO bindNewSocket: BIND exitoso (192.168.0.237:7007)
+2021-09-06T12:11:51.396-0300 INFO bindNewSocket: CONNECT exitoso (192.168.0.237:7000). Cree el socket contra tracker.
+2021-09-06T12:11:51.424-0300 INFO Envio Check Available getsecretkey
+2021-09-06T12:11:51.447-0300 INFO Recibo ACK por Check Available getsecretkey
+2021-09-06T12:11:51.463-0300 INFO Peer servidor espera conexiones...
+2021-09-06T12:15:57.266-0300 INFO Recibi mensaje P2P de tracker
+2021-09-06T12:15:57.268-0300 INFO bindSameSocket: BIND exitoso (192.168.0.237:7007)
+2021-09-06T12:15:57.310-0300 INFO Peer obtiene ip:port tracker primario
+2021-09-06T12:15:57.312-0300 INFO bindNewSocket: Fallo BIND (192.168.0.237:7007)
+2021-09-06T12:15:57.313-0300 INFO bindNewSocket: BIND exitoso (192.168.0.237:7008)
+2021-09-06T12:15:57.314-0300 INFO bindNewSocket: CONNECT exitoso (192.168.0.237:7000). Cree el socket contra tracker.
+2021-09-06T12:15:57.318-0300 INFO Envio Check Available getsecretkey
+2021-09-06T12:15:57.326-0300 INFO Recibo ACK por Check Available getsecretkey
+2021-09-06T12:15:57.346-0300 INFO Peer servidor espera conexiones...
+2021-09-06T12:15:57.370-0300 INFO bindSameSocket: CONNECT exitoso (192.168.0.242:7013). Cree el socket contra peer.
+2021-09-06T12:16:02.054-0300 INFO Conexion establecida con cliente: (192.168.0.242:7013)
+2021-09-06T12:16:02.058-0300 INFO Recibi mensaje CHECK AVAILABLE
+2021-09-06T12:16:02.061-0300 INFO Respondi a mensaje CHECK AVAILABLE con ACK
+2021-09-06T12:16:02.411-0300 INFO Recibi mensaje PIECES_AVAILABLE_CLOSE
+2021-09-06T12:16:02.413-0300 INFO Nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exePartes.json
+2021-09-06T12:16:13.084-0300 INFO Recibi mensaje P2P de tracker
+2021-09-06T12:16:13.086-0300 INFO bindSameSocket: BIND exitoso (192.168.0.237:7008)
+2021-09-06T12:16:13.140-0300 INFO Peer obtiene ip:port tracker primario
+2021-09-06T12:16:13.141-0300 INFO bindNewSocket: BIND exitoso (192.168.0.237:7007)
+2021-09-06T12:16:13.143-0300 ERROR bindNewSocket: Fallo CONNECT (192.168.0.237:7000)
+2021-09-06T12:16:13.144-0300 ERROR bindNewSocket: Fallo BIND (192.168.0.237:7008)
+2021-09-06T12:16:13.144-0300 INFO bindNewSocket: BIND exitoso (192.168.0.237:7009)
+2021-09-06T12:16:13.145-0300 INFO bindNewSocket: CONNECT exitoso (192.168.0.237:7000). Cree el socket contra tracker.
+2021-09-06T12:16:13.154-0300 INFO Envio Check Available getsecretkey
+2021-09-06T12:16:13.163-0300 INFO Recibo ACK por Check Available getsecretkey
+2021-09-06T12:16:13.194-0300 INFO Peer servidor espera conexiones...
+2021-09-06T12:16:13.778-0300 INFO bindSameSocket: CONNECT exitoso (192.168.0.242:7014). Cree el socket contra peer.
+2021-09-06T12:16:18.304-0300 INFO Conexion establecida con cliente: (192.168.0.242:7014)
+2021-09-06T12:16:18.310-0300 INFO Recibi mensaje CHECK AVAILABLE
+2021-09-06T12:16:18.313-0300 INFO Respondi a mensaje CHECK AVAILABLE con ACK
+2021-09-06T12:16:18.591-0300 INFO Recibi mensaje PIECES_AVAILABLE
+2021-09-06T12:16:18.592-0300 INFO Nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exePartes.json
+2021-09-06T12:16:18.702-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:18.802-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:20.971-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:21.072-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:21.534-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:21.635-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:22.150-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:22.250-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:23.154-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:23.255-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:23.996-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:24.097-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:24.566-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:24.667-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:25.153-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:25.254-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:25.681-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:25.781-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:26.819-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:26.920-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:27.643-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:27.745-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:28.394-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:28.496-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:28.924-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:29.024-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:29.680-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:29.782-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:30.389-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:30.490-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:30.941-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:31.041-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:31.450-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:31.551-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:31.938-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:32.038-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:32.432-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:32.533-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:32.913-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:33.014-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:33.396-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:33.498-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:33.941-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:34.043-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:34.407-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:34.508-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:34.924-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:35.024-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:35.521-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:35.622-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:36.092-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:36.192-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:36.659-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:36.759-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:37.197-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:37.299-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:37.811-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:37.911-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:38.756-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:38.858-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:39.359-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:39.460-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:39.980-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:40.080-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:40.893-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:40.995-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:41.552-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:41.653-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:42.140-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:42.240-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:42.672-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:42.773-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:43.229-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:43.330-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:44.054-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:44.155-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:45.441-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:45.542-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:46.112-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:46.214-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:46.680-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:46.780-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:47.181-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:47.283-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:47.720-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:47.821-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:48.605-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:48.706-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:49.137-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:49.237-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:49.655-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:49.757-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:50.138-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:50.239-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:50.662-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:50.763-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:51.192-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:51.292-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:51.677-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:51.778-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:52.181-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:52.281-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:52.685-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:52.785-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:53.233-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:53.333-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:54.014-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:54.114-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:54.575-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:54.675-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:55.125-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:55.225-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:56.378-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:56.479-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:56.946-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:57.048-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:57.474-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:57.574-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:57.973-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:58.074-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:58.497-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:58.597-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:59.019-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:59.121-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:16:59.548-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:16:59.649-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:00.008-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:00.108-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:00.518-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:00.618-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:01.051-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:01.152-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:01.584-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:01.684-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:02.234-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:02.334-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:02.897-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:02.998-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:03.457-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:03.558-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:03.984-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:04.084-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:04.501-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:04.603-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:05.005-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:05.105-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:05.519-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:05.620-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:06.102-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:06.202-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:06.572-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:06.673-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:07.711-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:07.813-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:08.691-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:08.791-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:09.650-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:09.751-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:10.271-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:10.371-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:11.264-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:11.365-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:11.824-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:11.925-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:12.407-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:12.508-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:12.968-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:13.068-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:13.457-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:13.558-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:13.988-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:14.088-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:14.828-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:14.929-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:15.529-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:15.629-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:16.075-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:16.175-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:16.637-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:16.738-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:17.212-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:17.313-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:17.824-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:17.925-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:18.903-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:19.003-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:19.558-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:19.659-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:20.109-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:20.209-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:20.687-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:20.787-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:21.241-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:21.342-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:21.770-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:21.870-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:22.309-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:22.411-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:22.843-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:22.943-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:23.386-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:23.486-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:23.893-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:23.995-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:24.447-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:24.548-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:25.013-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:25.114-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:25.549-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:25.649-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:26.072-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:26.173-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:26.587-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:26.687-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:27.081-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:27.181-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:27.616-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:27.717-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:28.090-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:28.191-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:28.667-0300 INFO Recibi mensaje GET_PIECE
+2021-09-06T12:17:28.768-0300 INFO m.pathAParte: nombre del archivo buscado en peer servidor:C:\Users\User\Desktop\Peer\Archivo/eclipse.exe
+2021-09-06T12:17:29.693-0300 INFO Recibi mensaje LOADDOWN

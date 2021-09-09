@@ -1,0 +1,594 @@
+2021-09-06T12:13:27.691-0300 INFO Mi IP privada: 192.168.0.242 | Mi IP publica: 190.244.140.243
+2021-09-06T12:14:08.495-0300 INFO JSON descargado exitosamente.
+2021-09-06T12:16:07.706-0300 INFO ThreadCliente, para descargar archivo eclipse.exe, iniciado
+2021-09-06T12:16:07.709-0300 INFO Descarga iniciada.
+2021-09-06T12:16:12.686-0300 INFO Peer obtiene ip:port tracker primario
+2021-09-06T12:16:12.686-0300 INFO bindNewSocket: BIND exitoso (192.168.0.242:7013)
+2021-09-06T12:16:12.782-0300 INFO bindNewSocket: CONNECT exitoso (192.168.0.237:7000). Cree el socket contra tracker.
+2021-09-06T12:16:17.447-0300 INFO Envio Check Available getsecretkey
+2021-09-06T12:16:17.689-0300 INFO Recibo ACK por Check Available getsecretkey
+2021-09-06T12:16:17.712-0300 INFO bindSameSocket: BIND exitoso (192.168.0.242:7013)
+2021-09-06T12:16:17.934-0300 INFO bindSameSocket: CONNECT exitoso (192.168.0.237:7007). Cree el socket contra peer.
+2021-09-06T12:16:18.044-0300 INFO Envio Check Available getsecretkey
+2021-09-06T12:16:22.748-0300 INFO Recibo ACK por Check Available getsecretkey
+2021-09-06T12:16:22.752-0300 INFO ThreadPartesDisponibles - Consulta archivo partes pendientes de 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:23.263-0300 INFO ThreadPartesDisponibles - Recibo archivo partes pendientes de 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:23.265-0300 INFO ThreadPartesDisponibles - El swarm posee un 100.00% del total del archivo a descargar.
+2021-09-06T12:16:23.266-0300 INFO ThreadPartesDisponibles - Del 100.00% disponible en el swarm, descargo 0.00%
+2021-09-06T12:16:28.304-0300 INFO Peer obtiene ip:port tracker primario
+2021-09-06T12:16:28.304-0300 INFO bindNewSocket: BIND exitoso (192.168.0.242:7013)
+2021-09-06T12:16:28.342-0300 ERROR bindNewSocket: Fallo CONNECT (192.168.0.237:7000)
+2021-09-06T12:16:28.343-0300 INFO bindNewSocket: BIND exitoso (192.168.0.242:7014)
+2021-09-06T12:16:28.482-0300 INFO bindNewSocket: CONNECT exitoso (192.168.0.237:7000). Cree el socket contra tracker.
+2021-09-06T12:16:33.128-0300 INFO Envio Check Available getsecretkey
+2021-09-06T12:16:33.506-0300 INFO Recibo ACK por Check Available getsecretkey
+2021-09-06T12:16:34.015-0300 INFO bindSameSocket: BIND exitoso (192.168.0.242:7014)
+2021-09-06T12:16:34.217-0300 INFO bindSameSocket: CONNECT exitoso (192.168.0.237:7008). Cree el socket contra peer.
+2021-09-06T12:16:34.424-0300 INFO Envio Check Available getsecretkey
+2021-09-06T12:16:38.929-0300 INFO Recibo ACK por Check Available getsecretkey
+2021-09-06T12:16:39.135-0300 INFO ThreadCliente - Conexion con peer disponible (190.244.140.243 - 192.168.0.237) y obtencion de archivo de partes descargadas
+2021-09-06T12:16:39.135-0300 INFO ThreadCliente - Retirar al peer (190.244.140.243 - 192.168.0.237) de peers disponibles
+2021-09-06T12:16:39.138-0300 INFO Leechers descargando...
+2021-09-06T12:16:39.139-0300 INFO ThreadLeecher - Descargando parte numero 26 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:39.144-0300 INFO ThreadLeecher - Guardando parte 26.
+2021-09-06T12:16:41.400-0300 INFO ThreadLeecher - Parte 26: Descargada.
+2021-09-06T12:16:41.408-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 26 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:41.410-0300 INFO ThreadLeecher - 0.90% Descargado
+2021-09-06T12:16:41.411-0300 INFO ThreadLeecher - Descargando parte numero 42 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:41.412-0300 INFO ThreadLeecher - Guardando parte 42.
+2021-09-06T12:16:41.965-0300 INFO ThreadLeecher - Parte 42: Descargada.
+2021-09-06T12:16:41.971-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 42 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:41.973-0300 INFO ThreadLeecher - 1.80% Descargado
+2021-09-06T12:16:41.974-0300 INFO ThreadLeecher - Descargando parte numero 52 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:41.975-0300 INFO ThreadLeecher - Guardando parte 52.
+2021-09-06T12:16:42.579-0300 INFO ThreadLeecher - Parte 52: Descargada.
+2021-09-06T12:16:42.585-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 52 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:42.586-0300 INFO ThreadLeecher - 2.70% Descargado
+2021-09-06T12:16:42.587-0300 INFO ThreadLeecher - Descargando parte numero 5 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:42.588-0300 INFO ThreadLeecher - Guardando parte 5.
+2021-09-06T12:16:43.584-0300 INFO ThreadLeecher - Parte 5: Descargada.
+2021-09-06T12:16:43.590-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 5 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:43.591-0300 INFO ThreadLeecher - 3.60% Descargado
+2021-09-06T12:16:43.592-0300 INFO ThreadLeecher - Descargando parte numero 10 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:43.592-0300 INFO ThreadLeecher - Guardando parte 10.
+2021-09-06T12:16:44.426-0300 INFO ThreadLeecher - Parte 10: Descargada.
+2021-09-06T12:16:44.432-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 10 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:44.434-0300 INFO ThreadLeecher - 4.50% Descargado
+2021-09-06T12:16:44.435-0300 INFO ThreadLeecher - Descargando parte numero 2 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:44.435-0300 INFO ThreadLeecher - Guardando parte 2.
+2021-09-06T12:16:44.994-0300 INFO ThreadLeecher - Parte 2: Descargada.
+2021-09-06T12:16:45.000-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 2 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:45.002-0300 INFO ThreadLeecher - 5.41% Descargado
+2021-09-06T12:16:45.003-0300 INFO ThreadLeecher - Descargando parte numero 66 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:45.003-0300 INFO ThreadLeecher - Guardando parte 66.
+2021-09-06T12:16:45.585-0300 INFO ThreadLeecher - Parte 66: Descargada.
+2021-09-06T12:16:45.591-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 66 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:45.592-0300 INFO ThreadLeecher - 6.31% Descargado
+2021-09-06T12:16:45.593-0300 INFO ThreadLeecher - Descargando parte numero 11 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:45.594-0300 INFO ThreadLeecher - Guardando parte 11.
+2021-09-06T12:16:46.108-0300 INFO ThreadLeecher - Parte 11: Descargada.
+2021-09-06T12:16:46.114-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 11 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:46.116-0300 INFO ThreadLeecher - 7.21% Descargado
+2021-09-06T12:16:46.117-0300 INFO ThreadLeecher - Descargando parte numero 0 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:46.118-0300 INFO ThreadLeecher - Guardando parte 0.
+2021-09-06T12:16:47.250-0300 INFO ThreadLeecher - Parte 0: Descargada.
+2021-09-06T12:16:47.255-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 0 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:47.257-0300 INFO ThreadLeecher - 8.11% Descargado
+2021-09-06T12:16:47.258-0300 INFO ThreadLeecher - Descargando parte numero 15 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:47.258-0300 INFO ThreadLeecher - Guardando parte 15.
+2021-09-06T12:16:48.076-0300 INFO ThreadLeecher - Parte 15: Descargada.
+2021-09-06T12:16:48.081-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 15 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:48.083-0300 INFO ThreadLeecher - 9.01% Descargado
+2021-09-06T12:16:48.084-0300 INFO ThreadLeecher - Descargando parte numero 21 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:48.085-0300 INFO ThreadLeecher - Guardando parte 21.
+2021-09-06T12:16:48.826-0300 INFO ThreadLeecher - Parte 21: Descargada.
+2021-09-06T12:16:48.831-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 21 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:48.833-0300 INFO ThreadLeecher - 9.91% Descargado
+2021-09-06T12:16:48.833-0300 INFO ThreadLeecher - Descargando parte numero 34 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:48.834-0300 INFO ThreadLeecher - Guardando parte 34.
+2021-09-06T12:16:49.355-0300 INFO ThreadLeecher - Parte 34: Descargada.
+2021-09-06T12:16:49.360-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 34 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:49.361-0300 INFO ThreadLeecher - 10.81% Descargado
+2021-09-06T12:16:49.362-0300 INFO ThreadLeecher - Descargando parte numero 40 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:49.363-0300 INFO ThreadLeecher - Guardando parte 40.
+2021-09-06T12:16:50.112-0300 INFO ThreadLeecher - Parte 40: Descargada.
+2021-09-06T12:16:50.117-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 40 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:50.118-0300 INFO ThreadLeecher - 11.71% Descargado
+2021-09-06T12:16:50.119-0300 INFO ThreadLeecher - Descargando parte numero 62 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:50.119-0300 INFO ThreadLeecher - Guardando parte 62.
+2021-09-06T12:16:50.823-0300 INFO ThreadLeecher - Parte 62: Descargada.
+2021-09-06T12:16:50.828-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 62 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:50.829-0300 INFO ThreadLeecher - 12.61% Descargado
+2021-09-06T12:16:50.830-0300 INFO ThreadLeecher - Descargando parte numero 35 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:50.831-0300 INFO ThreadLeecher - Guardando parte 35.
+2021-09-06T12:16:51.372-0300 INFO ThreadLeecher - Parte 35: Descargada.
+2021-09-06T12:16:51.377-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 35 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:51.378-0300 INFO ThreadLeecher - 13.51% Descargado
+2021-09-06T12:16:51.379-0300 INFO ThreadLeecher - Descargando parte numero 41 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:51.380-0300 INFO ThreadLeecher - Guardando parte 41.
+2021-09-06T12:16:51.884-0300 INFO ThreadLeecher - Parte 41: Descargada.
+2021-09-06T12:16:51.889-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 41 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:51.890-0300 INFO ThreadLeecher - 14.41% Descargado
+2021-09-06T12:16:51.891-0300 INFO ThreadLeecher - Descargando parte numero 7 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:51.891-0300 INFO ThreadLeecher - Guardando parte 7.
+2021-09-06T12:16:52.370-0300 INFO ThreadLeecher - Parte 7: Descargada.
+2021-09-06T12:16:52.375-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 7 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:52.376-0300 INFO ThreadLeecher - 15.32% Descargado
+2021-09-06T12:16:52.377-0300 INFO ThreadLeecher - Descargando parte numero 13 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:52.377-0300 INFO ThreadLeecher - Guardando parte 13.
+2021-09-06T12:16:52.866-0300 INFO ThreadLeecher - Parte 13: Descargada.
+2021-09-06T12:16:52.871-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 13 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:52.872-0300 INFO ThreadLeecher - 16.22% Descargado
+2021-09-06T12:16:52.873-0300 INFO ThreadLeecher - Descargando parte numero 28 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:52.874-0300 INFO ThreadLeecher - Guardando parte 28.
+2021-09-06T12:16:53.344-0300 INFO ThreadLeecher - Parte 28: Descargada.
+2021-09-06T12:16:53.349-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 28 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:53.352-0300 INFO ThreadLeecher - 17.12% Descargado
+2021-09-06T12:16:53.352-0300 INFO ThreadLeecher - Descargando parte numero 19 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:53.353-0300 INFO ThreadLeecher - Guardando parte 19.
+2021-09-06T12:16:53.831-0300 INFO ThreadLeecher - Parte 19: Descargada.
+2021-09-06T12:16:53.835-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 19 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:53.837-0300 INFO ThreadLeecher - 18.02% Descargado
+2021-09-06T12:16:53.838-0300 INFO ThreadLeecher - Descargando parte numero 107 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:53.838-0300 INFO ThreadLeecher - Guardando parte 107.
+2021-09-06T12:16:54.371-0300 INFO ThreadLeecher - Parte 107: Descargada.
+2021-09-06T12:16:54.377-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 107 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:54.379-0300 INFO ThreadLeecher - 18.92% Descargado
+2021-09-06T12:16:54.380-0300 INFO ThreadLeecher - Descargando parte numero 110 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:54.381-0300 INFO ThreadLeecher - Guardando parte 110.
+2021-09-06T12:16:54.836-0300 INFO ThreadLeecher - Parte 110: Descargada.
+2021-09-06T12:16:54.841-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 110 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:54.843-0300 INFO ThreadLeecher - 19.82% Descargado
+2021-09-06T12:16:54.844-0300 INFO ThreadLeecher - Descargando parte numero 74 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:54.845-0300 INFO ThreadLeecher - Guardando parte 74.
+2021-09-06T12:16:55.354-0300 INFO ThreadLeecher - Parte 74: Descargada.
+2021-09-06T12:16:55.361-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 74 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:55.363-0300 INFO ThreadLeecher - 20.72% Descargado
+2021-09-06T12:16:55.363-0300 INFO ThreadLeecher - Descargando parte numero 84 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:55.364-0300 INFO ThreadLeecher - Guardando parte 84.
+2021-09-06T12:16:55.955-0300 INFO ThreadLeecher - Parte 84: Descargada.
+2021-09-06T12:16:55.960-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 84 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:55.962-0300 INFO ThreadLeecher - 21.62% Descargado
+2021-09-06T12:16:55.962-0300 INFO ThreadLeecher - Descargando parte numero 106 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:55.963-0300 INFO ThreadLeecher - Guardando parte 106.
+2021-09-06T12:16:56.524-0300 INFO ThreadLeecher - Parte 106: Descargada.
+2021-09-06T12:16:56.529-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 106 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:56.530-0300 INFO ThreadLeecher - 22.52% Descargado
+2021-09-06T12:16:56.530-0300 INFO ThreadLeecher - Descargando parte numero 98 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:56.531-0300 INFO ThreadLeecher - Guardando parte 98.
+2021-09-06T12:16:57.092-0300 INFO ThreadLeecher - Parte 98: Descargada.
+2021-09-06T12:16:57.097-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 98 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:57.099-0300 INFO ThreadLeecher - 23.42% Descargado
+2021-09-06T12:16:57.099-0300 INFO ThreadLeecher - Descargando parte numero 96 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:57.100-0300 INFO ThreadLeecher - Guardando parte 96.
+2021-09-06T12:16:57.630-0300 INFO ThreadLeecher - Parte 96: Descargada.
+2021-09-06T12:16:57.635-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 96 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:57.636-0300 INFO ThreadLeecher - 24.32% Descargado
+2021-09-06T12:16:57.637-0300 INFO ThreadLeecher - Descargando parte numero 99 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:57.637-0300 INFO ThreadLeecher - Guardando parte 99.
+2021-09-06T12:16:58.246-0300 INFO ThreadLeecher - Parte 99: Descargada.
+2021-09-06T12:16:58.250-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 99 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:58.251-0300 INFO ThreadLeecher - 25.23% Descargado
+2021-09-06T12:16:58.252-0300 INFO ThreadLeecher - Descargando parte numero 105 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:58.252-0300 INFO ThreadLeecher - Guardando parte 105.
+2021-09-06T12:16:59.189-0300 INFO ThreadLeecher - Parte 105: Descargada.
+2021-09-06T12:16:59.194-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 105 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:59.195-0300 INFO ThreadLeecher - 26.13% Descargado
+2021-09-06T12:16:59.196-0300 INFO ThreadLeecher - Descargando parte numero 108 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:59.196-0300 INFO ThreadLeecher - Guardando parte 108.
+2021-09-06T12:16:59.794-0300 INFO ThreadLeecher - Parte 108: Descargada.
+2021-09-06T12:16:59.799-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 108 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:59.800-0300 INFO ThreadLeecher - 27.03% Descargado
+2021-09-06T12:16:59.801-0300 INFO ThreadLeecher - Descargando parte numero 29 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:16:59.801-0300 INFO ThreadLeecher - Guardando parte 29.
+2021-09-06T12:17:00.412-0300 INFO ThreadLeecher - Parte 29: Descargada.
+2021-09-06T12:17:00.417-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 29 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:00.418-0300 INFO ThreadLeecher - 27.93% Descargado
+2021-09-06T12:17:00.419-0300 INFO ThreadLeecher - Descargando parte numero 27 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:00.420-0300 INFO ThreadLeecher - Guardando parte 27.
+2021-09-06T12:17:01.328-0300 INFO ThreadLeecher - Parte 27: Descargada.
+2021-09-06T12:17:01.333-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 27 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:01.334-0300 INFO ThreadLeecher - 28.83% Descargado
+2021-09-06T12:17:01.334-0300 INFO ThreadLeecher - Descargando parte numero 51 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:01.335-0300 INFO ThreadLeecher - Guardando parte 51.
+2021-09-06T12:17:01.987-0300 INFO ThreadLeecher - Parte 51: Descargada.
+2021-09-06T12:17:01.991-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 51 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:01.992-0300 INFO ThreadLeecher - 29.73% Descargado
+2021-09-06T12:17:01.993-0300 INFO ThreadLeecher - Descargando parte numero 81 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:01.993-0300 INFO ThreadLeecher - Guardando parte 81.
+2021-09-06T12:17:02.572-0300 INFO ThreadLeecher - Parte 81: Descargada.
+2021-09-06T12:17:02.577-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 81 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:02.579-0300 INFO ThreadLeecher - 30.63% Descargado
+2021-09-06T12:17:02.580-0300 INFO ThreadLeecher - Descargando parte numero 63 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:02.580-0300 INFO ThreadLeecher - Guardando parte 63.
+2021-09-06T12:17:03.104-0300 INFO ThreadLeecher - Parte 63: Descargada.
+2021-09-06T12:17:03.109-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 63 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:03.110-0300 INFO ThreadLeecher - 31.53% Descargado
+2021-09-06T12:17:03.111-0300 INFO ThreadLeecher - Descargando parte numero 38 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:03.112-0300 INFO ThreadLeecher - Guardando parte 38.
+2021-09-06T12:17:03.664-0300 INFO ThreadLeecher - Parte 38: Descargada.
+2021-09-06T12:17:03.669-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 38 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:03.670-0300 INFO ThreadLeecher - 32.43% Descargado
+2021-09-06T12:17:03.671-0300 INFO ThreadLeecher - Descargando parte numero 4 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:03.671-0300 INFO ThreadLeecher - Guardando parte 4.
+2021-09-06T12:17:04.486-0300 INFO ThreadLeecher - Parte 4: Descargada.
+2021-09-06T12:17:04.491-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 4 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:04.493-0300 INFO ThreadLeecher - 33.33% Descargado
+2021-09-06T12:17:04.494-0300 INFO ThreadLeecher - Descargando parte numero 8 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:04.495-0300 INFO ThreadLeecher - Guardando parte 8.
+2021-09-06T12:17:05.874-0300 INFO ThreadLeecher - Parte 8: Descargada.
+2021-09-06T12:17:05.879-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 8 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:05.880-0300 INFO ThreadLeecher - 34.23% Descargado
+2021-09-06T12:17:05.880-0300 INFO ThreadLeecher - Descargando parte numero 82 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:05.881-0300 INFO ThreadLeecher - Guardando parte 82.
+2021-09-06T12:17:06.545-0300 INFO ThreadLeecher - Parte 82: Descargada.
+2021-09-06T12:17:06.550-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 82 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:06.551-0300 INFO ThreadLeecher - 35.14% Descargado
+2021-09-06T12:17:06.552-0300 INFO ThreadLeecher - Descargando parte numero 76 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:06.552-0300 INFO ThreadLeecher - Guardando parte 76.
+2021-09-06T12:17:07.115-0300 INFO ThreadLeecher - Parte 76: Descargada.
+2021-09-06T12:17:07.120-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 76 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:07.121-0300 INFO ThreadLeecher - 36.04% Descargado
+2021-09-06T12:17:07.122-0300 INFO ThreadLeecher - Descargando parte numero 25 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:07.122-0300 INFO ThreadLeecher - Guardando parte 25.
+2021-09-06T12:17:07.614-0300 INFO ThreadLeecher - Parte 25: Descargada.
+2021-09-06T12:17:07.619-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 25 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:07.620-0300 INFO ThreadLeecher - 36.94% Descargado
+2021-09-06T12:17:07.621-0300 INFO ThreadLeecher - Descargando parte numero 101 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:07.622-0300 INFO ThreadLeecher - Guardando parte 101.
+2021-09-06T12:17:08.155-0300 INFO ThreadLeecher - Parte 101: Descargada.
+2021-09-06T12:17:08.160-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 101 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:08.162-0300 INFO ThreadLeecher - 37.84% Descargado
+2021-09-06T12:17:08.162-0300 INFO ThreadLeecher - Descargando parte numero 36 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:08.163-0300 INFO ThreadLeecher - Guardando parte 36.
+2021-09-06T12:17:09.037-0300 INFO ThreadLeecher - Parte 36: Descargada.
+2021-09-06T12:17:09.042-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 36 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:09.044-0300 INFO ThreadLeecher - 38.74% Descargado
+2021-09-06T12:17:09.045-0300 INFO ThreadLeecher - Descargando parte numero 56 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:09.045-0300 INFO ThreadLeecher - Guardando parte 56.
+2021-09-06T12:17:09.571-0300 INFO ThreadLeecher - Parte 56: Descargada.
+2021-09-06T12:17:09.577-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 56 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:09.578-0300 INFO ThreadLeecher - 39.64% Descargado
+2021-09-06T12:17:09.579-0300 INFO ThreadLeecher - Descargando parte numero 67 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:09.580-0300 INFO ThreadLeecher - Guardando parte 67.
+2021-09-06T12:17:10.088-0300 INFO ThreadLeecher - Parte 67: Descargada.
+2021-09-06T12:17:10.094-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 67 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:10.095-0300 INFO ThreadLeecher - 40.54% Descargado
+2021-09-06T12:17:10.096-0300 INFO ThreadLeecher - Descargando parte numero 17 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:10.096-0300 INFO ThreadLeecher - Guardando parte 17.
+2021-09-06T12:17:10.574-0300 INFO ThreadLeecher - Parte 17: Descargada.
+2021-09-06T12:17:10.578-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 17 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:10.579-0300 INFO ThreadLeecher - 41.44% Descargado
+2021-09-06T12:17:10.580-0300 INFO ThreadLeecher - Descargando parte numero 78 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:10.581-0300 INFO ThreadLeecher - Guardando parte 78.
+2021-09-06T12:17:11.094-0300 INFO ThreadLeecher - Parte 78: Descargada.
+2021-09-06T12:17:11.101-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 78 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:11.101-0300 INFO ThreadLeecher - 42.34% Descargado
+2021-09-06T12:17:11.102-0300 INFO ThreadLeecher - Descargando parte numero 104 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:11.103-0300 INFO ThreadLeecher - Guardando parte 104.
+2021-09-06T12:17:11.626-0300 INFO ThreadLeecher - Parte 104: Descargada.
+2021-09-06T12:17:11.632-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 104 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:11.633-0300 INFO ThreadLeecher - 43.24% Descargado
+2021-09-06T12:17:11.634-0300 INFO ThreadLeecher - Descargando parte numero 1 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:11.635-0300 INFO ThreadLeecher - Guardando parte 1.
+2021-09-06T12:17:12.111-0300 INFO ThreadLeecher - Parte 1: Descargada.
+2021-09-06T12:17:12.116-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 1 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:12.117-0300 INFO ThreadLeecher - 44.14% Descargado
+2021-09-06T12:17:12.117-0300 INFO ThreadLeecher - Descargando parte numero 77 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:12.118-0300 INFO ThreadLeecher - Guardando parte 77.
+2021-09-06T12:17:12.617-0300 INFO ThreadLeecher - Parte 77: Descargada.
+2021-09-06T12:17:12.622-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 77 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:12.623-0300 INFO ThreadLeecher - 45.05% Descargado
+2021-09-06T12:17:12.623-0300 INFO ThreadLeecher - Descargando parte numero 57 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:12.624-0300 INFO ThreadLeecher - Guardando parte 57.
+2021-09-06T12:17:13.117-0300 INFO ThreadLeecher - Parte 57: Descargada.
+2021-09-06T12:17:13.123-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 57 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:13.124-0300 INFO ThreadLeecher - 45.95% Descargado
+2021-09-06T12:17:13.125-0300 INFO ThreadLeecher - Descargando parte numero 95 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:13.126-0300 INFO ThreadLeecher - Guardando parte 95.
+2021-09-06T12:17:13.667-0300 INFO ThreadLeecher - Parte 95: Descargada.
+2021-09-06T12:17:13.672-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 95 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:13.674-0300 INFO ThreadLeecher - 46.85% Descargado
+2021-09-06T12:17:13.675-0300 INFO ThreadLeecher - Descargando parte numero 97 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:13.675-0300 INFO ThreadLeecher - Guardando parte 97.
+2021-09-06T12:17:14.447-0300 INFO ThreadLeecher - Parte 97: Descargada.
+2021-09-06T12:17:14.452-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 97 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:14.453-0300 INFO ThreadLeecher - 47.75% Descargado
+2021-09-06T12:17:14.454-0300 INFO ThreadLeecher - Descargando parte numero 73 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:14.455-0300 INFO ThreadLeecher - Guardando parte 73.
+2021-09-06T12:17:15.009-0300 INFO ThreadLeecher - Parte 73: Descargada.
+2021-09-06T12:17:15.015-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 73 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:15.016-0300 INFO ThreadLeecher - 48.65% Descargado
+2021-09-06T12:17:15.017-0300 INFO ThreadLeecher - Descargando parte numero 72 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:15.018-0300 INFO ThreadLeecher - Guardando parte 72.
+2021-09-06T12:17:15.559-0300 INFO ThreadLeecher - Parte 72: Descargada.
+2021-09-06T12:17:15.563-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 72 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:15.564-0300 INFO ThreadLeecher - 49.55% Descargado
+2021-09-06T12:17:15.565-0300 INFO ThreadLeecher - Descargando parte numero 68 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:15.565-0300 INFO ThreadLeecher - Guardando parte 68.
+2021-09-06T12:17:16.812-0300 INFO ThreadLeecher - Parte 68: Descargada.
+2021-09-06T12:17:16.817-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 68 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:16.818-0300 INFO ThreadLeecher - 50.45% Descargado
+2021-09-06T12:17:16.818-0300 INFO ThreadLeecher - Descargando parte numero 22 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:16.819-0300 INFO ThreadLeecher - Guardando parte 22.
+2021-09-06T12:17:17.379-0300 INFO ThreadLeecher - Parte 22: Descargada.
+2021-09-06T12:17:17.384-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 22 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:17.385-0300 INFO ThreadLeecher - 51.35% Descargado
+2021-09-06T12:17:17.386-0300 INFO ThreadLeecher - Descargando parte numero 43 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:17.387-0300 INFO ThreadLeecher - Guardando parte 43.
+2021-09-06T12:17:17.909-0300 INFO ThreadLeecher - Parte 43: Descargada.
+2021-09-06T12:17:17.914-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 43 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:17.915-0300 INFO ThreadLeecher - 52.25% Descargado
+2021-09-06T12:17:17.916-0300 INFO ThreadLeecher - Descargando parte numero 12 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:17.917-0300 INFO ThreadLeecher - Guardando parte 12.
+2021-09-06T12:17:18.408-0300 INFO ThreadLeecher - Parte 12: Descargada.
+2021-09-06T12:17:18.413-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 12 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:18.414-0300 INFO ThreadLeecher - 53.15% Descargado
+2021-09-06T12:17:18.414-0300 INFO ThreadLeecher - Descargando parte numero 60 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:18.415-0300 INFO ThreadLeecher - Guardando parte 60.
+2021-09-06T12:17:18.934-0300 INFO ThreadLeecher - Parte 60: Descargada.
+2021-09-06T12:17:18.938-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 60 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:18.939-0300 INFO ThreadLeecher - 54.05% Descargado
+2021-09-06T12:17:18.940-0300 INFO ThreadLeecher - Descargando parte numero 88 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:18.940-0300 INFO ThreadLeecher - Guardando parte 88.
+2021-09-06T12:17:19.454-0300 INFO ThreadLeecher - Parte 88: Descargada.
+2021-09-06T12:17:19.458-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 88 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:19.459-0300 INFO ThreadLeecher - 54.95% Descargado
+2021-09-06T12:17:19.460-0300 INFO ThreadLeecher - Descargando parte numero 90 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:19.461-0300 INFO ThreadLeecher - Guardando parte 90.
+2021-09-06T12:17:19.983-0300 INFO ThreadLeecher - Parte 90: Descargada.
+2021-09-06T12:17:19.987-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 90 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:19.988-0300 INFO ThreadLeecher - 55.86% Descargado
+2021-09-06T12:17:19.989-0300 INFO ThreadLeecher - Descargando parte numero 3 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:19.989-0300 INFO ThreadLeecher - Guardando parte 3.
+2021-09-06T12:17:20.440-0300 INFO ThreadLeecher - Parte 3: Descargada.
+2021-09-06T12:17:20.445-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 3 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:20.446-0300 INFO ThreadLeecher - 56.76% Descargado
+2021-09-06T12:17:20.447-0300 INFO ThreadLeecher - Descargando parte numero 39 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:20.447-0300 INFO ThreadLeecher - Guardando parte 39.
+2021-09-06T12:17:20.954-0300 INFO ThreadLeecher - Parte 39: Descargada.
+2021-09-06T12:17:20.959-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 39 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:20.960-0300 INFO ThreadLeecher - 57.66% Descargado
+2021-09-06T12:17:20.961-0300 INFO ThreadLeecher - Descargando parte numero 93 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:20.961-0300 INFO ThreadLeecher - Guardando parte 93.
+2021-09-06T12:17:21.485-0300 INFO ThreadLeecher - Parte 93: Descargada.
+2021-09-06T12:17:21.491-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 93 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:21.491-0300 INFO ThreadLeecher - 58.56% Descargado
+2021-09-06T12:17:21.492-0300 INFO ThreadLeecher - Descargando parte numero 53 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:21.492-0300 INFO ThreadLeecher - Guardando parte 53.
+2021-09-06T12:17:22.019-0300 INFO ThreadLeecher - Parte 53: Descargada.
+2021-09-06T12:17:22.024-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 53 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:22.026-0300 INFO ThreadLeecher - 59.46% Descargado
+2021-09-06T12:17:22.026-0300 INFO ThreadLeecher - Descargando parte numero 61 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:22.027-0300 INFO ThreadLeecher - Guardando parte 61.
+2021-09-06T12:17:22.671-0300 INFO ThreadLeecher - Parte 61: Descargada.
+2021-09-06T12:17:22.675-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 61 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:22.676-0300 INFO ThreadLeecher - 60.36% Descargado
+2021-09-06T12:17:22.677-0300 INFO ThreadLeecher - Descargando parte numero 18 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:22.677-0300 INFO ThreadLeecher - Guardando parte 18.
+2021-09-06T12:17:23.333-0300 INFO ThreadLeecher - Parte 18: Descargada.
+2021-09-06T12:17:23.338-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 18 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:23.339-0300 INFO ThreadLeecher - 61.26% Descargado
+2021-09-06T12:17:23.340-0300 INFO ThreadLeecher - Descargando parte numero 89 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:23.340-0300 INFO ThreadLeecher - Guardando parte 89.
+2021-09-06T12:17:23.892-0300 INFO ThreadLeecher - Parte 89: Descargada.
+2021-09-06T12:17:23.897-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 89 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:23.898-0300 INFO ThreadLeecher - 62.16% Descargado
+2021-09-06T12:17:23.898-0300 INFO ThreadLeecher - Descargando parte numero 48 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:23.899-0300 INFO ThreadLeecher - Guardando parte 48.
+2021-09-06T12:17:24.420-0300 INFO ThreadLeecher - Parte 48: Descargada.
+2021-09-06T12:17:24.425-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 48 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:24.426-0300 INFO ThreadLeecher - 63.06% Descargado
+2021-09-06T12:17:24.426-0300 INFO ThreadLeecher - Descargando parte numero 58 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:24.427-0300 INFO ThreadLeecher - Guardando parte 58.
+2021-09-06T12:17:24.934-0300 INFO ThreadLeecher - Parte 58: Descargada.
+2021-09-06T12:17:24.939-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 58 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:24.940-0300 INFO ThreadLeecher - 63.96% Descargado
+2021-09-06T12:17:24.941-0300 INFO ThreadLeecher - Descargando parte numero 54 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:24.942-0300 INFO ThreadLeecher - Guardando parte 54.
+2021-09-06T12:17:25.441-0300 INFO ThreadLeecher - Parte 54: Descargada.
+2021-09-06T12:17:25.446-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 54 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:25.447-0300 INFO ThreadLeecher - 64.86% Descargado
+2021-09-06T12:17:25.448-0300 INFO ThreadLeecher - Descargando parte numero 70 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:25.448-0300 INFO ThreadLeecher - Guardando parte 70.
+2021-09-06T12:17:25.953-0300 INFO ThreadLeecher - Parte 70: Descargada.
+2021-09-06T12:17:25.958-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 70 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:25.960-0300 INFO ThreadLeecher - 65.77% Descargado
+2021-09-06T12:17:25.960-0300 INFO ThreadLeecher - Descargando parte numero 103 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:25.961-0300 INFO ThreadLeecher - Guardando parte 103.
+2021-09-06T12:17:26.535-0300 INFO ThreadLeecher - Parte 103: Descargada.
+2021-09-06T12:17:26.541-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 103 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:26.543-0300 INFO ThreadLeecher - 66.67% Descargado
+2021-09-06T12:17:26.543-0300 INFO ThreadLeecher - Descargando parte numero 6 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:26.544-0300 INFO ThreadLeecher - Guardando parte 6.
+2021-09-06T12:17:27.008-0300 INFO ThreadLeecher - Parte 6: Descargada.
+2021-09-06T12:17:27.013-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 6 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:27.015-0300 INFO ThreadLeecher - 67.57% Descargado
+2021-09-06T12:17:27.015-0300 INFO ThreadLeecher - Descargando parte numero 79 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:27.016-0300 INFO ThreadLeecher - Guardando parte 79.
+2021-09-06T12:17:28.146-0300 INFO ThreadLeecher - Parte 79: Descargada.
+2021-09-06T12:17:28.151-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 79 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:28.152-0300 INFO ThreadLeecher - 68.47% Descargado
+2021-09-06T12:17:28.153-0300 INFO ThreadLeecher - Descargando parte numero 33 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:28.154-0300 INFO ThreadLeecher - Guardando parte 33.
+2021-09-06T12:17:29.125-0300 INFO ThreadLeecher - Parte 33: Descargada.
+2021-09-06T12:17:29.130-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 33 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:29.131-0300 INFO ThreadLeecher - 69.37% Descargado
+2021-09-06T12:17:29.131-0300 INFO ThreadLeecher - Descargando parte numero 109 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:29.132-0300 INFO ThreadLeecher - Guardando parte 109.
+2021-09-06T12:17:30.085-0300 INFO ThreadLeecher - Parte 109: Descargada.
+2021-09-06T12:17:30.090-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 109 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:30.091-0300 INFO ThreadLeecher - 70.27% Descargado
+2021-09-06T12:17:30.091-0300 INFO ThreadLeecher - Descargando parte numero 86 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:30.092-0300 INFO ThreadLeecher - Guardando parte 86.
+2021-09-06T12:17:30.702-0300 INFO ThreadLeecher - Parte 86: Descargada.
+2021-09-06T12:17:30.707-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 86 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:30.708-0300 INFO ThreadLeecher - 71.17% Descargado
+2021-09-06T12:17:30.709-0300 INFO ThreadLeecher - Descargando parte numero 47 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:30.709-0300 INFO ThreadLeecher - Guardando parte 47.
+2021-09-06T12:17:31.701-0300 INFO ThreadLeecher - Parte 47: Descargada.
+2021-09-06T12:17:31.706-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 47 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:31.707-0300 INFO ThreadLeecher - 72.07% Descargado
+2021-09-06T12:17:31.708-0300 INFO ThreadLeecher - Descargando parte numero 44 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:31.708-0300 INFO ThreadLeecher - Guardando parte 44.
+2021-09-06T12:17:32.260-0300 INFO ThreadLeecher - Parte 44: Descargada.
+2021-09-06T12:17:32.265-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 44 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:32.266-0300 INFO ThreadLeecher - 72.97% Descargado
+2021-09-06T12:17:32.267-0300 INFO ThreadLeecher - Descargando parte numero 32 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:32.267-0300 INFO ThreadLeecher - Guardando parte 32.
+2021-09-06T12:17:32.843-0300 INFO ThreadLeecher - Parte 32: Descargada.
+2021-09-06T12:17:32.848-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 32 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:32.849-0300 INFO ThreadLeecher - 73.87% Descargado
+2021-09-06T12:17:32.850-0300 INFO ThreadLeecher - Descargando parte numero 65 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:32.850-0300 INFO ThreadLeecher - Guardando parte 65.
+2021-09-06T12:17:33.399-0300 INFO ThreadLeecher - Parte 65: Descargada.
+2021-09-06T12:17:33.405-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 65 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:33.406-0300 INFO ThreadLeecher - 74.77% Descargado
+2021-09-06T12:17:33.408-0300 INFO ThreadLeecher - Descargando parte numero 16 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:33.408-0300 INFO ThreadLeecher - Guardando parte 16.
+2021-09-06T12:17:33.892-0300 INFO ThreadLeecher - Parte 16: Descargada.
+2021-09-06T12:17:33.898-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 16 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:33.899-0300 INFO ThreadLeecher - 75.68% Descargado
+2021-09-06T12:17:33.900-0300 INFO ThreadLeecher - Descargando parte numero 45 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:33.901-0300 INFO ThreadLeecher - Guardando parte 45.
+2021-09-06T12:17:34.421-0300 INFO ThreadLeecher - Parte 45: Descargada.
+2021-09-06T12:17:34.425-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 45 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:34.426-0300 INFO ThreadLeecher - 76.58% Descargado
+2021-09-06T12:17:34.426-0300 INFO ThreadLeecher - Descargando parte numero 46 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:34.427-0300 INFO ThreadLeecher - Guardando parte 46.
+2021-09-06T12:17:35.261-0300 INFO ThreadLeecher - Parte 46: Descargada.
+2021-09-06T12:17:35.267-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 46 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:35.268-0300 INFO ThreadLeecher - 77.48% Descargado
+2021-09-06T12:17:35.269-0300 INFO ThreadLeecher - Descargando parte numero 64 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:35.269-0300 INFO ThreadLeecher - Guardando parte 64.
+2021-09-06T12:17:35.963-0300 INFO ThreadLeecher - Parte 64: Descargada.
+2021-09-06T12:17:35.968-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 64 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:35.970-0300 INFO ThreadLeecher - 78.38% Descargado
+2021-09-06T12:17:35.970-0300 INFO ThreadLeecher - Descargando parte numero 31 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:35.971-0300 INFO ThreadLeecher - Guardando parte 31.
+2021-09-06T12:17:36.510-0300 INFO ThreadLeecher - Parte 31: Descargada.
+2021-09-06T12:17:36.515-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 31 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:36.516-0300 INFO ThreadLeecher - 79.28% Descargado
+2021-09-06T12:17:36.517-0300 INFO ThreadLeecher - Descargando parte numero 69 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:36.518-0300 INFO ThreadLeecher - Guardando parte 69.
+2021-09-06T12:17:37.075-0300 INFO ThreadLeecher - Parte 69: Descargada.
+2021-09-06T12:17:37.080-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 69 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:37.081-0300 INFO ThreadLeecher - 80.18% Descargado
+2021-09-06T12:17:37.081-0300 INFO ThreadLeecher - Descargando parte numero 85 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:37.082-0300 INFO ThreadLeecher - Guardando parte 85.
+2021-09-06T12:17:37.648-0300 INFO ThreadLeecher - Parte 85: Descargada.
+2021-09-06T12:17:37.653-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 85 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:37.655-0300 INFO ThreadLeecher - 81.08% Descargado
+2021-09-06T12:17:37.655-0300 INFO ThreadLeecher - Descargando parte numero 83 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:37.656-0300 INFO ThreadLeecher - Guardando parte 83.
+2021-09-06T12:17:38.260-0300 INFO ThreadLeecher - Parte 83: Descargada.
+2021-09-06T12:17:38.266-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 83 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:38.267-0300 INFO ThreadLeecher - 81.98% Descargado
+2021-09-06T12:17:38.268-0300 INFO ThreadLeecher - Descargando parte numero 50 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:38.268-0300 INFO ThreadLeecher - Guardando parte 50.
+2021-09-06T12:17:39.338-0300 INFO ThreadLeecher - Parte 50: Descargada.
+2021-09-06T12:17:39.342-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 50 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:39.343-0300 INFO ThreadLeecher - 82.88% Descargado
+2021-09-06T12:17:39.344-0300 INFO ThreadLeecher - Descargando parte numero 30 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:39.344-0300 INFO ThreadLeecher - Guardando parte 30.
+2021-09-06T12:17:39.996-0300 INFO ThreadLeecher - Parte 30: Descargada.
+2021-09-06T12:17:40.000-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 30 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:40.001-0300 INFO ThreadLeecher - 83.78% Descargado
+2021-09-06T12:17:40.002-0300 INFO ThreadLeecher - Descargando parte numero 55 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:40.003-0300 INFO ThreadLeecher - Guardando parte 55.
+2021-09-06T12:17:40.546-0300 INFO ThreadLeecher - Parte 55: Descargada.
+2021-09-06T12:17:40.551-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 55 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:40.552-0300 INFO ThreadLeecher - 84.68% Descargado
+2021-09-06T12:17:40.553-0300 INFO ThreadLeecher - Descargando parte numero 102 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:40.554-0300 INFO ThreadLeecher - Guardando parte 102.
+2021-09-06T12:17:41.123-0300 INFO ThreadLeecher - Parte 102: Descargada.
+2021-09-06T12:17:41.127-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 102 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:41.128-0300 INFO ThreadLeecher - 85.59% Descargado
+2021-09-06T12:17:41.129-0300 INFO ThreadLeecher - Descargando parte numero 91 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:41.130-0300 INFO ThreadLeecher - Guardando parte 91.
+2021-09-06T12:17:41.679-0300 INFO ThreadLeecher - Parte 91: Descargada.
+2021-09-06T12:17:41.683-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 91 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:41.684-0300 INFO ThreadLeecher - 86.49% Descargado
+2021-09-06T12:17:41.685-0300 INFO ThreadLeecher - Descargando parte numero 75 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:41.685-0300 INFO ThreadLeecher - Guardando parte 75.
+2021-09-06T12:17:42.203-0300 INFO ThreadLeecher - Parte 75: Descargada.
+2021-09-06T12:17:42.209-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 75 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:42.210-0300 INFO ThreadLeecher - 87.39% Descargado
+2021-09-06T12:17:42.211-0300 INFO ThreadLeecher - Descargando parte numero 92 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:42.211-0300 INFO ThreadLeecher - Guardando parte 92.
+2021-09-06T12:17:42.747-0300 INFO ThreadLeecher - Parte 92: Descargada.
+2021-09-06T12:17:42.752-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 92 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:42.753-0300 INFO ThreadLeecher - 88.29% Descargado
+2021-09-06T12:17:42.754-0300 INFO ThreadLeecher - Descargando parte numero 37 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:42.754-0300 INFO ThreadLeecher - Guardando parte 37.
+2021-09-06T12:17:43.275-0300 INFO ThreadLeecher - Parte 37: Descargada.
+2021-09-06T12:17:43.280-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 37 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:43.281-0300 INFO ThreadLeecher - 89.19% Descargado
+2021-09-06T12:17:43.281-0300 INFO ThreadLeecher - Descargando parte numero 59 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:43.282-0300 INFO ThreadLeecher - Guardando parte 59.
+2021-09-06T12:17:43.823-0300 INFO ThreadLeecher - Parte 59: Descargada.
+2021-09-06T12:17:43.828-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 59 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:43.829-0300 INFO ThreadLeecher - 90.09% Descargado
+2021-09-06T12:17:43.830-0300 INFO ThreadLeecher - Descargando parte numero 23 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:43.831-0300 INFO ThreadLeecher - Guardando parte 23.
+2021-09-06T12:17:44.330-0300 INFO ThreadLeecher - Parte 23: Descargada.
+2021-09-06T12:17:44.335-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 23 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:44.335-0300 INFO ThreadLeecher - 90.99% Descargado
+2021-09-06T12:17:44.336-0300 INFO ThreadLeecher - Descargando parte numero 80 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:44.336-0300 INFO ThreadLeecher - Guardando parte 80.
+2021-09-06T12:17:44.886-0300 INFO ThreadLeecher - Parte 80: Descargada.
+2021-09-06T12:17:44.890-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 80 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:44.891-0300 INFO ThreadLeecher - 91.89% Descargado
+2021-09-06T12:17:44.892-0300 INFO ThreadLeecher - Descargando parte numero 100 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:44.892-0300 INFO ThreadLeecher - Guardando parte 100.
+2021-09-06T12:17:45.449-0300 INFO ThreadLeecher - Parte 100: Descargada.
+2021-09-06T12:17:45.455-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 100 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:45.456-0300 INFO ThreadLeecher - 92.79% Descargado
+2021-09-06T12:17:45.457-0300 INFO ThreadLeecher - Descargando parte numero 71 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:45.458-0300 INFO ThreadLeecher - Guardando parte 71.
+2021-09-06T12:17:45.987-0300 INFO ThreadLeecher - Parte 71: Descargada.
+2021-09-06T12:17:45.992-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 71 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:45.993-0300 INFO ThreadLeecher - 93.69% Descargado
+2021-09-06T12:17:45.994-0300 INFO ThreadLeecher - Descargando parte numero 9 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:45.994-0300 INFO ThreadLeecher - Guardando parte 9.
+2021-09-06T12:17:46.506-0300 INFO ThreadLeecher - Parte 9: Descargada.
+2021-09-06T12:17:46.511-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 9 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:46.512-0300 INFO ThreadLeecher - 94.59% Descargado
+2021-09-06T12:17:46.513-0300 INFO ThreadLeecher - Descargando parte numero 24 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:46.513-0300 INFO ThreadLeecher - Guardando parte 24.
+2021-09-06T12:17:47.025-0300 INFO ThreadLeecher - Parte 24: Descargada.
+2021-09-06T12:17:47.030-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 24 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:47.031-0300 INFO ThreadLeecher - 95.50% Descargado
+2021-09-06T12:17:47.031-0300 INFO ThreadLeecher - Descargando parte numero 20 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:47.032-0300 INFO ThreadLeecher - Guardando parte 20.
+2021-09-06T12:17:47.516-0300 INFO ThreadLeecher - Parte 20: Descargada.
+2021-09-06T12:17:47.522-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 20 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:47.523-0300 INFO ThreadLeecher - 96.40% Descargado
+2021-09-06T12:17:47.524-0300 INFO ThreadLeecher - Descargando parte numero 49 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:47.524-0300 INFO ThreadLeecher - Guardando parte 49.
+2021-09-06T12:17:48.054-0300 INFO ThreadLeecher - Parte 49: Descargada.
+2021-09-06T12:17:48.059-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 49 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:48.060-0300 INFO ThreadLeecher - 97.30% Descargado
+2021-09-06T12:17:48.061-0300 INFO ThreadLeecher - Descargando parte numero 14 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:48.061-0300 INFO ThreadLeecher - Guardando parte 14.
+2021-09-06T12:17:48.528-0300 INFO ThreadLeecher - Parte 14: Descargada.
+2021-09-06T12:17:48.532-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 14 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:48.533-0300 INFO ThreadLeecher - 98.20% Descargado
+2021-09-06T12:17:48.533-0300 INFO ThreadLeecher - Descargando parte numero 94 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:48.534-0300 INFO ThreadLeecher - Guardando parte 94.
+2021-09-06T12:17:49.106-0300 INFO ThreadLeecher - Parte 94: Descargada.
+2021-09-06T12:17:49.111-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 94 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:49.111-0300 INFO ThreadLeecher - 99.10% Descargado
+2021-09-06T12:17:49.112-0300 INFO ThreadLeecher - Descargando parte numero 87 de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:49.112-0300 INFO ThreadLeecher - Guardando parte 87.
+2021-09-06T12:17:50.132-0300 INFO ThreadLeecher - Parte 87: Descargada.
+2021-09-06T12:17:50.136-0300 INFO eclipse.exe - ThreadLeecher - Parte numero 87 descargada de peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:50.137-0300 INFO ThreadLeecher - 100.00% Descargado
+2021-09-06T12:17:50.138-0300 INFO ThreadLeecher - LOADDOWN peer 190.244.140.243 - 192.168.0.237
+2021-09-06T12:17:50.348-0300 INFO Velocidad de descarga promedio: 12.60 Mbps
+2021-09-06T12:17:55.365-0300 INFO Tiempo minimo para descargar parte: 00:00:00.452
+2021-09-06T12:17:55.365-0300 INFO Tiempo maximo para descargar parte: 00:00:02.262
+2021-09-06T12:17:55.365-0300 INFO Tiempo promedio por parte: 00:00:00.633
+2021-09-06T12:17:55.365-0300 INFO Desvio estandar: 00:00:00.238
+2021-09-06T12:17:55.366-0300 INFO Descarga finalizada. Tiempo total: 00:01:42.427
+2021-09-06T12:20:19.341-0300 INFO Descargas pausadas

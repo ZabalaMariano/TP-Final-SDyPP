@@ -1,0 +1,29 @@
+#msg{
+	-fx-opacity: 0.8;
+	-fx-background-color: #e71919;
+}
+
+Button:hover{
+	-fx-cursor: hand;
+}
+
+#btnSalir{
+	-fx-background-color: #FF6161;
+  	-fx-font-size: 16px;
+  	-fx-border-width: 1px;
+  	-fx-border-color: #B4B4B4;
+}
+
+#btnInicio, #btnActualizarTrackers, #btnDefinirIPs, #btnArchivosPublicados{
+	-fx-background-color: #6EB4CB;
+  	-fx-font-size: 16px;
+  	-fx-border-width: 1px;
+  	-fx-border-color: #B4B4B4;	
+} 
+
+#btnDescargarArchivo, #btnDescargarJSON, #btnPublicarJSON, #btnCrearJSON{
+	-fx-background-color: #83FF88;
+  	-fx-font-size: 16px;
+  	-fx-border-width: 1px;
+  	-fx-border-color: #B4B4B4;
+}

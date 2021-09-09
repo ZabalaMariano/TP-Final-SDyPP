@@ -1,0 +1,50 @@
+2021-09-06T12:09:29.132-0300 INFO Tracker 0 iniciado
+2021-09-06T12:09:29.134-0300 INFO Path donde se guardaran los META-Archivos: C:\Users\User\Desktop\Tracker\jsons tracker
+2021-09-06T12:09:29.149-0300 INFO id primario: 0, Mi id: 0
+2021-09-06T12:09:29.150-0300 INFO Mi ID es: 0
+Mi IP es: 190.244.140.243
+Mi IP privada es: 192.168.0.237
+Mi PUERTO es: 7000
+Mi Tracker Primario es: 0, Pub (190.244.140.243:7000), Priv (192.168.0.237:7000)
+2021-09-06T12:09:29.151-0300 INFO Mi lista de trackers es: 
+- 0, Pub (190.244.140.243:7000), Priv (192.168.0.237:7000)
+2021-09-06T12:11:50.694-0300 INFO Conexion establecida con: (192.168.0.237:9211)
+2021-09-06T12:11:51.402-0300 INFO Conexion establecida con: (192.168.0.237:7007)
+2021-09-06T12:11:51.459-0300 INFO Nueva conexionTCP agregada a lista: (190.244.140.243 - 192.168.0.237)
+2021-09-06T12:11:51.462-0300 INFO Envie ACK desde tracker para indicar que socket peer servidor fue guardado en lista
+2021-09-06T12:12:14.167-0300 INFO Conexion establecida con: (192.168.0.237:9214)
+2021-09-06T12:12:14.227-0300 INFO Conexion establecida con: (192.168.0.237:9215)
+2021-09-06T12:12:14.282-0300 INFO Envie ACK desde tracker para indicar que esta listo para recibir el json del cliente
+2021-09-06T12:12:14.286-0300 INFO guardarArchivoBuffer tracker secundario
+2021-09-06T12:12:14.507-0300 INFO Tracker-->guardarArchivoBuffer: byteread al recibir JSON: 7429
+2021-09-06T12:12:14.937-0300 INFO Nuevo archivo: eclipse.exe
+2021-09-06T12:12:14.968-0300 INFO Nuevo Seed: (190.244.140.243 - 192.168.0.237)
+2021-09-06T12:12:16.866-0300 INFO Conexion establecida con: (192.168.0.237:9216)
+2021-09-06T12:12:16.956-0300 INFO Consulta archivos ofrecidos por: (190.244.140.243 - 192.168.0.237)
+2021-09-06T12:13:12.267-0300 INFO Conexion establecida con: (192.168.0.242:43720)
+2021-09-06T12:13:17.478-0300 INFO Nueva conexionTCP agregada a lista: (190.244.140.243 - 192.168.0.242)
+2021-09-06T12:13:17.989-0300 INFO Envie ACK desde tracker para indicar que socket peer servidor fue guardado en lista
+2021-09-06T12:13:37.033-0300 INFO Conexion establecida con: (192.168.0.242:43722)
+2021-09-06T12:13:37.453-0300 INFO Consulta archivos por nombre
+2021-09-06T12:13:47.487-0300 INFO Conexion establecida con: (192.168.0.242:43724)
+2021-09-06T12:13:47.875-0300 INFO enviarArchivoBuffer desde primario
+2021-09-06T12:13:47.882-0300 INFO fin enviarArchivoBuffer
+2021-09-06T12:15:46.618-0300 INFO Conexion establecida con: (192.168.0.242:43726)
+2021-09-06T12:15:47.196-0300 INFO Nuevo Leecher: (190.244.140.243 - 192.168.0.242)
+2021-09-06T12:15:47.216-0300 INFO Consulta por Swarm
+2021-09-06T12:15:51.895-0300 INFO Conexion establecida con: (192.168.0.242:43728)
+2021-09-06T12:15:56.895-0300 INFO Conexion establecida con: (192.168.0.242:7013)
+2021-09-06T12:15:57.270-0300 INFO Finaliza buscarPeer(), liberando recurso LockListaConexionesTCP
+2021-09-06T12:15:57.290-0300 INFO Conexion establecida con: (192.168.0.237:9218)
+2021-09-06T12:15:57.315-0300 INFO Conexion establecida con: (192.168.0.237:7008)
+2021-09-06T12:15:57.337-0300 INFO Nueva conexionTCP agregada a lista: (190.244.140.243 - 192.168.0.237)
+2021-09-06T12:15:57.345-0300 INFO Envie ACK desde tracker para indicar que socket peer servidor fue guardado en lista
+2021-09-06T12:16:07.561-0300 INFO Conexion establecida con: (192.168.0.242:43732)
+2021-09-06T12:16:12.577-0300 INFO Conexion establecida con: (192.168.0.242:7014)
+2021-09-06T12:16:13.093-0300 INFO Finaliza buscarPeer(), liberando recurso LockListaConexionesTCP
+2021-09-06T12:16:13.114-0300 INFO Conexion establecida con: (192.168.0.237:9219)
+2021-09-06T12:16:13.146-0300 INFO Conexion establecida con: (192.168.0.237:7009)
+2021-09-06T12:16:13.180-0300 INFO Nueva conexionTCP agregada a lista: (190.244.140.243 - 192.168.0.237)
+2021-09-06T12:16:13.193-0300 INFO Envie ACK desde tracker para indicar que socket peer servidor fue guardado en lista
+2021-09-06T12:17:34.540-0300 INFO Conexion establecida con: (192.168.0.242:43734)
+2021-09-06T12:17:34.928-0300 INFO Nuevo Seed: (190.244.140.243 - 192.168.0.242)
